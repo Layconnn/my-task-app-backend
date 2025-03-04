@@ -1,4 +1,3 @@
-// src/tasks/dto/update-task.dto.ts
 import { IsNotEmpty, IsString } from 'class-validator';
 import { ApiPropertyOptional } from '@nestjs/swagger';
 
