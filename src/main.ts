@@ -10,7 +10,7 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
 
   app.enableCors({
-    origin: ['http://localhost:3000', 'https://task-apk.netlify.app/'],
+    origin: ['http://localhost:3000', 'https://task-apk.netlify.app'],
     credentials: true,
   });
 
