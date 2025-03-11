@@ -1,4 +1,3 @@
-```markdown
 # NestJS Task Manager Backend
 
 ## Overview
